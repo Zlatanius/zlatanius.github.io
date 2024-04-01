@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  width: 100%;
+  height:fit-content;
+  background-color: #252422;
+}
+
+.naviagtion {
+  display: flex;
+  padding-left: 20px;
+}
+
+.logo {
+  padding: 0px 40px;
+  background-color: white;
+}
+
+.logo-text {
+  font-size: 25px;
+  margin: 15px 0px
+}
+
+.nav-button {
+  padding: 0px 20px;
+  align-content: center;
+}
+
+.nav-button > p {
+  color: white;
+}
