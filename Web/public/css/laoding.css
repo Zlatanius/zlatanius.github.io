@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  width: 100%;
+  height: fit-content;
+}
+
+.navbar > iframe {
+  width: 100%;
+}
